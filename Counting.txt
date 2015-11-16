@@ -3,4 +3,6 @@ Task : count to 10
 Process :
  
 1
-...
+2
+3
+4
